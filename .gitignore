@@ -1,0 +1,3 @@
+# .gitignore — invented for this entry
+node_modules/
+/output/
